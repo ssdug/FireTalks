@@ -14,7 +14,7 @@ Fire Talks are 10 minutes each with 1 - 2 additional minutes for setup
 
 ## How to submit a talk
 
-Pick your topic and give your presentation a title, then write a quick summary about your topic.  There are only 9 available slots.  In order to submit your request to present, edit the table below by adding your name, title, and summary in one of the 9 slots.  Then make a pull request. 
+Pick your topic and give your presentation a title, then write a quick summary about your topic.  There are only 9 available slots.  In order to submit your request to present, edit the table below by adding your name, title, and summary in one of the 9 slots.  Then make a merge request. 
 
 ## Schedule
 
