@@ -18,13 +18,14 @@ Pick your topic and give your presentation a title, then write a quick summary a
 
 ## Schedule
 
-| # 	| Name 	| Title 	| Short Summary 	|
-|---	|------	|-------	|---------------	|
-| 1  	|      	|       	|               	|
-| 2  	|      	|       	|               	|
-| 3  	|      	|       	|               	|
-| 4  	|      	|       	|               	|
-| 5  	|      	|       	|               	|
-| 6  	|      	|       	|               	|
-| 8  	|      	|       	|               	|
-| 9  	|      	|       	|               	|
+| # 	| Name 	       | Title 	       | Short Summary 	|
+|---	|------------- |-------------  |---------------	|
+| 1  	|              |               |               	|
+| 2  	|              |               |               	|
+| 3  	| Joel Tennant | .Net Core 2.1 |  A look at running the .Net Core 2.1 Angular templates on Ubuntu.	|
+| 4  	|              |       	|               	|
+| 5  	|              |       	|               	|
+| 6 	|              |       	|               	|
+| 7 	|              |       	|               	|
+| 8  	|              |       	|               	|
+| 9  	|              |       	|               	|
