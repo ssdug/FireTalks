@@ -24,7 +24,7 @@ Pick your topic and give your presentation a title, then write a quick summary a
 | 2  	|              |               |               	|
 | 3  	| Joel Tennant | .Net Core 2.1 |  A look at running the .Net Core 2.1 Angular templates on Ubuntu.	|
 | 4  	|              |       	|               	|
-| 5  	|              |       	|               	|
+| 5  	| Carter Barnes |  Electron | A quick introduction to Electron. What is it and should you care? |
 | 6 	|              |       	|               	|
 | 7 	|              |       	|               	|
 | 8  	|              |       	|               	|
