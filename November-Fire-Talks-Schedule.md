@@ -20,7 +20,7 @@ Pick your topic and give your presentation a title, then write a quick summary a
 
 | # 	| Name 	       | Title 	       | Short Summary 	|
 |---	|------------- |-------------  |---------------	|
-| 1  	|              |               |               	|
+| 1  	| Chris Fuess  | BBC Micro:bit - Learn Coding For Kids| Explore the micro:bit, an easy to use programmable micro-controller for kids               	|
 | 2  	|              |               |               	|
 | 3  	| Joel Tennant | .Net Core 2.1 |  A look at running the .Net Core 2.1 Angular templates on Ubuntu.	|
 | 4  	|              |       	|               	|
