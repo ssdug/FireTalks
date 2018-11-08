@@ -27,5 +27,5 @@ Pick your topic and give your presentation a title, then write a quick summary a
 | 5  	| Carter Barnes |  Electron | A quick introduction to Electron. What is it and should you care? |
 | 6 	|              |       	|               	|
 | 7 	| Phil Hagelberg | Game jam 2	| A quick demo of my entry for the Autumn Lisp Game Jam              	|
-| 8  	|              |       	|               	|
+| 8  	| David Houchin  | Programming on PS2	| A cursory look at running MIPS Linux on the PS2 and development options.	|
 | 9  	|              |       	|               	|
