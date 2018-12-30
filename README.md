@@ -1,4 +1,4 @@
-[![Join us](https://wt-3f533296d128037c9af8381221f78dd6-0.sandbox.auth0-extend.com/webtask-slackin/badge.svg)](https://wt-3f533296d128037c9af8381221f78dd6-0.sandbox.auth0-extend.com/webtask-slackin/ssdug-slackin/)
+[![Join us](https://wt-3f533296d128037c9af8381221f78dd6-0.sandbox.auth0-extend.com/webtask-slackin/badge.svg)](http://bit.ly/SSDUG-Slack)
 
 # SSDUG Fire Talks
 
