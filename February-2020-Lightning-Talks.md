@@ -21,7 +21,7 @@ Pick your topic and give your presentation a title, then write a quick summary a
 | # 	| Name 	       | Title 	       | Short Summary 	|
 |---	|------------- |-------------  |---------------	|
 | 1  	|              |               |     	        |
-| 2  	|              |               |             	|
+| 2  	|David Haymond | dotfiles      | How to host your workstation's config files on GitHub |
 | 3  	|              |               |             	|
 | 4  	|              |       	       |             	|
 | 5  	|              |               |                |
