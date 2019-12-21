@@ -6,7 +6,7 @@ If you have a topic you're passionate about, we would love to hear about it!
 
 ## When
 
-7 PM to 9 PM, February 12th, 2020, at the Olympia Community Center. 
+7 PM to 9 PM, February 13th, 2020, at the Olympia Community Center. 
 
 ## Format
 
