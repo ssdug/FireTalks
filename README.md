@@ -6,4 +6,5 @@ This repo is for scheduling SSDUG Fire Talks.
 
 ## Upcoming Fire Talks
 
-* [November SSDUG Fire Talks (11/8/18)](/November-Fire-Talks-Schedule.md)
+* [November 2018 SSDUG Fire Talks (11/8/18)](/November-Fire-Talks-Schedule.md)
+* [February 2020 SSDUG Fire Talks (03/13/20)](/February-2020-Lightning-Talks.md)
