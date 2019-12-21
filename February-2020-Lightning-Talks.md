@@ -20,7 +20,7 @@ Pick your topic and give your presentation a title, then write a quick summary a
 
 | # 	| Name 	       | Title 	       | Short Summary 	|
 |---	|------------- |-------------  |---------------	|
-| 1  	|              |               |     	        |
+| 1  	| Wm Leler     | Flutter       | How Flutter has revolutionized software development |
 | 2  	|              |               |             	|
 | 3  	|              |               |             	|
 | 4  	|              |       	       |             	|
