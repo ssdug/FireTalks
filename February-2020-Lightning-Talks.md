@@ -18,12 +18,12 @@ Pick your topic and give your presentation a title, then write a quick summary a
 
 ## Schedule
 
-| # 	| Name 	       | Title 	       | Short Summary 	|
-|---	|------------- |-------------  |---------------	|
-| 1  	|              |               |     	        |
-| 2  	|David Haymond | dotfiles      | How to host your workstation's config files on GitHub |
-| 3  	|              |               |             	|
-| 4  	|              |       	       |             	|
-| 5  	|              |               |                |
-| 6 	|              |               |               	|
-| 7 	|              |               |             	|
+| #   | Name          | Title         | Short Summary   |
+|---  |-------------- |-------------  |-----------------|
+| 1   | Wm Leler      | Flutter       | How Flutter has revolutionized software development |
+| 2   | David Haymond | dotfiles      | How to host your workstation's config files on GitHub |
+| 3   |               |               |                 |
+| 4   |               |               |                 |
+| 5   |               |               |                 |
+| 6   |               |               |                 |
+| 7   |               |               |                 |
