@@ -18,12 +18,12 @@ Pick your topic and give your presentation a title, then write a quick summary a
 
 ## Schedule
 
-| #   | Name            | Title           | Short Summary   |
-|---  |--------------   |-------------    |-----------------|
-| 1   | Wm Leler        | Flutter         | How Flutter has revolutionized software development |
-| 2   | David Haymond   | dotfiles        | How to host your workstation's config files on GitHub |
-| 3   | Matthew Parsons | PoSH & Sticky   | Beginning powershell for non-beginners. Tiny pieces of god.|
-| 4   |                 |                 |                 |
-| 5   |                 |                 |                 |
-| 6   |                 |                 |                 |
-| 7   |                 |                 |                 |
+| #   | Name            | Title              | Short Summary                                                   |
+|---  |--------------   |--------------------|-----------------------------------------------------------------|
+| 1   | Wm Leler        | Flutter            | How Flutter has revolutionized software development             |
+| 2   | David Haymond   | dotfiles           | How to host your workstation's config files on GitHub           |
+| 3   | Jamie Phelps    | The Humble console | A tour of Javascript's console object, on the web and in NodeJS |
+| 4   | Matthew Parsons | PoSH & Sticky   | Beginning powershell for non-beginners. Tiny pieces of god.|
+| 5   |                 |                    |                                                                 |
+| 6   |                 |                    |                                                                 |
+| 7   |                 |                    |                                                                 |
