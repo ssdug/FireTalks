@@ -1,4 +1,4 @@
-# November SSDUG Lightning Talks
+# February 2020 SSDUG Lightning Talks
 
 ## Overview
 
@@ -24,6 +24,6 @@ Pick your topic and give your presentation a title, then write a quick summary a
 | 2   | David Haymond   | dotfiles           | How to host your workstation's config files on GitHub           |
 | 3   | Jamie Phelps    | The Humble console | A tour of Javascript's console object, on the web and in NodeJS |
 | 4   | Matthew Parsons | PoSH & Sticky   | Beginning powershell for non-beginners. Tiny pieces of god.|
-| 5   |                 |                    |                                                                 |
+| 5   | David Houchin   | State of Pinball Emulation | A quick look at how emulating pinball works, current offerings on the market, and up-and-comers. |
 | 6   |                 |                    |                                                                 |
 | 7   |                 |                    |                                                                 |
