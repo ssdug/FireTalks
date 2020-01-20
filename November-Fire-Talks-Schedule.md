@@ -2,7 +2,7 @@
 
 ## Overview
 
-If you have a topic your passionate about, we would love to hear about it!  
+If you have a topic you're passionate about, we would love to hear about it!  
 
 ## When
 
@@ -20,12 +20,12 @@ Pick your topic and give your presentation a title, then write a quick summary a
 
 | # 	| Name 	       | Title 	       | Short Summary 	|
 |---	|------------- |-------------  |---------------	|
-| 1  	| Chris Fuess  | BBC Micro:bit - Learn Coding For Kids| Explore the micro:bit, an easy to use programmable micro-controller for kids               	|
-| 2  	|              |               |               	|
-| 3  	| Joel Tennant | .Net Core 2.1 |  A look at running the .Net Core 2.1 Angular templates on Ubuntu.	|
+| 1  	| Chris Fuess  | BBC Micro:bit - Learn Coding For Kids| Explore the micro:bit, an easy to use programmable micro-controller for kids    	|
+| 2  	| Jill Headen  | Orleans: tutorial one |  An introduction to Orleans, the open source technology being used with Halo, and the challenges documenting it 	|
+| 3  	|  |  |  	|
 | 4  	|              |       	|               	|
 | 5  	| Carter Barnes |  Electron | A quick introduction to Electron. What is it and should you care? |
 | 6 	|              |       	|               	|
 | 7 	| Phil Hagelberg | Game jam 2	| A quick demo of my entry for the Autumn Lisp Game Jam              	|
-| 8  	|              |       	|               	|
-| 9  	|              |       	|               	|
+| 8  	| David Houchin  | Programming on PS2	| A cursory look at running MIPS Linux on the PS2 and development options.	|
+| 9  	| Joel Tennant | .Net Core 2.1 |  A look at running the .Net Core 2.1 Angular templates on Ubuntu.	|
