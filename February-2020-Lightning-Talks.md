@@ -24,6 +24,6 @@ Pick your topic and give your presentation a title, then write a quick summary a
 | 2   | David Haymond   | dotfiles           | How to host your workstation's config files on GitHub           |
 | 3   | Jamie Phelps    | The Humble console | A tour of Javascript's console object, on the web and in NodeJS |
 | 4   | Matthew Parsons | PoSH & Sticky   | Beginning powershell for non-beginners. Tiny pieces of god.|
-| 5   |                 |                    |                                                                 |
+| 5   | Jeremy Moore    | Facts & Theories|  Writing one unit test to test multiple scenarios.                                                               |
 | 6   |                 |                    |                                                                 |
 | 7   |                 |                    |                                                                 |
