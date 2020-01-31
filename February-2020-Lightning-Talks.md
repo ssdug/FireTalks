@@ -1,4 +1,4 @@
-# November SSDUG Lightning Talks
+# February 2020 SSDUG Lightning Talks
 
 ## Overview
 
@@ -26,4 +26,4 @@ Pick your topic and give your presentation a title, then write a quick summary a
 | 4   | Matthew Parsons | PoSH & Sticky      | Beginning powershell for non-beginners. Tiny pieces of god.     |
 | 5   | Jeremy Moore    | Facts & Theories   | Writing one unit test to test multiple scenarios.               |
 | 6   | Carter Barnes   | Developer Secrets  | Developer secrets for unconfigurable differences                |
-| 7   |                 |                    |                                                                 |
+| 7   | David Houchin | State of Pinball Emulation | A quick look at how emulation works, and the current & up-and-coming solutions in the market |
